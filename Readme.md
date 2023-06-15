@@ -5,7 +5,7 @@
 
 3. running <code>pip install -r requirements.txt</code> to install library
 
-4. running <code>python -m ipykernel install --name={your kernel name}</code> to register kernel into jupyter notebook
+4. running <code>python -m ipykernel install --name={your kernel name} --user </code> to register kernel into jupyter notebook
 
 5. check kernel with <code>jupyter kernelspec list</code>, if your kernel name exist, it means that kernel already registered
 
