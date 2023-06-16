@@ -1,5 +1,5 @@
 # Installation  After Cloning
-1. running or execute **setupvenv.sh** to set Python virtual environtment
+1. running or execute **setupvenv.sh** to set Python virtual environtment. for Windows running **setupvenv.bat**
 
 2. execute **python_venv/bin/activate** to activate virtual environtment
 
